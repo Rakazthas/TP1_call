@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TP1_xml</string>
+    <string name="name_text">Nom</string>
+    <string name="surname_text">Prenom</string>
+    <string name="age_text">Age</string>
+    <string name="skill_text">Domaine de competences</string>
+    <string name="tel_text">Numero de telephone</string>
+    <string name="ok_button">Enregistrer</string>
+    <string name="dialog_text">Valider ?</string>
+    <string name="dialog_ok">Valider</string>
+    <string name="dialog_no">Annuler</string>
+    <string name="complete_button">OK</string>
+    <string name="complete_cancel">Retour</string>
+    <string name="call_button">Appeler</string>
+</resources>
